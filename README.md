@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=220&section=header&text=Kaif%20Azad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Kotlin%20%26%20Java&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=220&section=header&text=Kaif%20Azad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer&descAlignY=55&descSize=18" />
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A8A8A&center=true&vCenter=true&width=500&lines=I+turn+logic+into+pixels;Building+Android+apps+with+Kotlin+%26+Java;Always+learning%2C+always+building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A8A8A&center=true&vCenter=true&width=500&lines=I+turn+logic+into+pixels;Kotlin+%26+Java+Developer;Always+learning%2C+always+building" />
 
 </div>
 
