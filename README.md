@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=220&section=header&text=Kaif%20Azad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=220&section=header&text=Kaif%20Azad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer&descAlignY=55&descSize=18" />
 
 <br>
 
@@ -41,7 +41,7 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifazad&theme=dark&hide_border=true&background=0d1117&ring=8A8A8A&fire=ffffff&currStreakLabel=ffffff" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=kaifazad&theme=dark&hide_border=true&background=0d1117&ring=8A8A8A&fire=ffffff&currStreakLabel=ffffff" width="60%" />
 
 <br><br>
 
