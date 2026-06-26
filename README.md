@@ -4,6 +4,9 @@
 
 <br>
 
+<a href="https://azadkaif.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-24243e?style=flat-square&logo=vercel&logoColor=white&labelColor=24243e&color=0f0c29" />
+</a>
 <a href="https://instagram.com/kaif.azad">
   <img src="https://img.shields.io/badge/Instagram-9146241924?style=flat-square&logo=instagram&logoColor=white&labelColor=24243e&color=0f0c29" />
 </a>
@@ -13,7 +16,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A8A8A&center=true&vCenter=true&width=500&lines=I+turn+logic+into+pixels;Kotlin+%26+Java+Developer;Always+learning%2C+always+building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A8A8A&center=true&vCenter=true&width=500&lines=I+turn+logic+into+pixels;Web+%26+Android+App+Developer;Kotlin+%2C+Java+%26+the+modern+web;Always+learning%2C+always+building" />
 
 </div>
 
@@ -56,8 +59,10 @@
 
 <img src="https://visitcount.itsvg.in/api?id=kaifazad&icon=0&color=4" />
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer" />
-
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&color=24243e" width="80" height="2" />
+</p>
