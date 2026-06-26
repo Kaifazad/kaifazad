@@ -43,6 +43,22 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifazad&theme=dark&hide_border=true&background=0d1117&ring=8A8A8A&fire=ffffff&currStreakLabel=ffffff" width="60%" />
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaifazad&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaifazad&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A8A8A&line=ffffff&point=ffffff" width="90%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<i>Currently building something new — check it out at</i> <a href="https://azadkaif.vercel.app/">azadkaif.vercel.app</a>
+
 </div>
 
 <br>
@@ -54,10 +70,6 @@
 <a href="https://buymeacoffee.com/kaifazad">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-24243e?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kaifazad&style=flat-square&color=24243e&label=Profile+Views" />
 
 </div>
 
