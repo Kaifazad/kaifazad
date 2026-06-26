@@ -22,17 +22,17 @@
 
 <br>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,js,react,nodejs,mysql,firebase,figma,git,github&theme=dark" />
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-### ☕ Support
+### Support
 
 <a href="https://buymeacoffee.com/kaifazad">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-24243e?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
@@ -57,7 +57,7 @@
 
 <br><br>
 
-<img src="https://visitcount.itsvg.in/api?id=kaifazad&icon=0&color=4" />
+<img src="https://komarev.com/ghpvc/?username=kaifazad&style=flat-square&color=24243e&label=Profile+Views" />
 
 </div>
 
