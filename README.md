@@ -45,10 +45,6 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kaifazad&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaifazad&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A8A8A&line=ffffff&point=ffffff" width="90%" />
 
 </div>
