@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<i>Currently building something new — check it out at</i> <a href="https://azadkaif.vercel.app/">azadkaif.vercel.app</a>
+<i>Currently building something new — check it out at</i> <a href="https://kaifazad.in/">kaifazad.in</a>
 
 </div>
 
